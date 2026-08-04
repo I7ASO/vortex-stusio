@@ -3,124 +3,178 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="VORTEX STUDIO - نقدم حلولاً احترافية في برمجة بوتات ديسكورد، سكربتات روبلوكس، وتطوير المواقع ولوحات التحكم.">
+    <meta name="keywords" content="Vortex Studio, برمجة, بوتات ديسكورد, روبلوكس, تطوير مواقع, سكربتات">
+    <meta name="author" content="VORTEX STUDIO">
+
     <title>VORTEX STUDIO | من نحن</title>
-    
-    <link rel="shortcut icon" href="https://i.postimg.cc/PqdgSDhp/A4273DB5-986C-4720-8FB1-670A32CA1ECA.png" type="image/x-icon">
-    
+
+    <!-- أيقونة الموقع -->
+    <link rel="shortcut icon" href="https://i.postimg.cc/g2J7gWgr/2306FBBB-8CC1-406C-822B-3FB96AE6E9AF.png" type="image/x-icon">
+
+    <!-- Font Awesome للأيقونات -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        body {
-            background-color: #0d0118;
-            color: #ffffff;
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-        }
 
-        .main-container {
-            max-width: 500px;
-            margin: 40px auto;
-            padding: 20px;
-            text-align: center;
-        }
+    <!-- خط Cairo العربي -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
 
-        .server-logo {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            border: 3px solid #a855f7;
-            box-shadow: 0 0 15px #a855f7;
-            margin-bottom: 10px;
-        }
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
-        h1 {
-            color: #a855f7;
-            text-shadow: 0 0 10px #a855f7;
-            margin-bottom: 30px;
-        }
+body{
+    background:
+    radial-gradient(circle at top,#29114d 0%,#150324 35%,#0d0118 100%);
+    color:#fff;
+    font-family:'Cairo', Arial, sans-serif;
+    min-height:100vh;
+}
 
-        .card {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(168, 85, 247, 0.3);
-            border-radius: 20px;
-            padding: 25px;
-            margin-bottom: 20px;
-        }
+.main-container{
+    max-width:550px;
+    margin:40px auto;
+    padding:25px;
+    text-align:center;
+}
 
-        .my-photo {
-            width: 120px;
-            height: 120px;
-            border-radius: 15px;
-            border: 2px solid #fff;
-            margin-bottom: 15px;
-            object-fit: cover;
-        }
+.server-logo{
+    width:110px;
+    height:110px;
+    border-radius:50%;
+    border:3px solid #a855f7;
+    box-shadow:0 0 25px #a855f7;
+    transition:.3s;
+}
 
-        .about-text {
-            font-size: 1.1rem;
-            line-height: 1.6;
-            margin-bottom: 25px;
-        }
+.server-logo:hover{
+    transform:scale(1.08);
+}
 
-        .service {
-            background: rgba(168, 85, 247, 0.1);
-            padding: 12px;
-            border-radius: 10px;
-            margin-bottom: 10px;
-            text-align: right;
-            border-right: 4px solid #a855f7;
-        }
+h1{
+    margin:18px 0 30px;
+    color:#c084fc;
+    text-shadow:0 0 15px #a855f7;
+    letter-spacing:2px;
+}
 
-        .service i {
-            color: #a855f7;
-            margin-left: 10px;
-        }
+.card{
+    background:rgba(255,255,255,.05);
+    backdrop-filter:blur(15px);
+    border:1px solid rgba(168,85,247,.3);
+    border-radius:20px;
+    padding:25px;
+    box-shadow:0 0 25px rgba(168,85,247,.15);
+}
 
-        .discord-btn {
-            display: block;
-            background: #5865F2;
-            color: white;
-            text-decoration: none;
-            padding: 15px;
-            border-radius: 12px;
-            font-weight: bold;
-            margin-top: 20px;
-            box-shadow: 0 4px 15px rgba(88, 101, 242, 0.4);
-        }
+.my-photo{
+    width:130px;
+    height:130px;
+    border-radius:20px;
+    object-fit:cover;
+    border:2px solid #a855f7;
+    box-shadow:0 0 20px rgba(168,85,247,.5);
+    margin-bottom:20px;
+}
 
-        .footer {
-            margin-top: 40px;
-            font-size: 0.8rem;
-            color: #666;
-        }
-    </style>
+.about-text{
+    font-size:17px;
+    line-height:1.9;
+    color:#ddd;
+    margin-bottom:25px;
+}
+
+.service{
+    background:rgba(168,85,247,.12);
+    border-right:4px solid #a855f7;
+    border-radius:12px;
+    padding:15px;
+    margin:12px 0;
+    text-align:right;
+    transition:.25s;
+}
+
+.service:hover{
+    transform:translateX(-5px);
+    background:rgba(168,85,247,.2);
+}
+
+.service i{
+    color:#c084fc;
+    margin-left:10px;
+}
+
+.discord-btn{
+    display:block;
+    margin-top:25px;
+    padding:16px;
+    border-radius:14px;
+    text-decoration:none;
+    background:#5865F2;
+    color:#fff;
+    font-weight:bold;
+    transition:.3s;
+    box-shadow:0 0 20px rgba(88,101,242,.45);
+}
+
+.discord-btn:hover{
+    transform:translateY(-3px);
+    box-shadow:0 0 30px rgba(88,101,242,.7);
+}
+
+.footer{
+    margin-top:35px;
+    color:#888;
+    font-size:14px;
+}
+</style>
+
 </head>
 <body>
 
-    <div class="main-container">
-        <img src="https://i.postimg.cc/PqdgSDhp/A4273DB5-986C-4720-8FB1-670A32CA1ECA.png" class="server-logo">
-        <h1>VORTEX STUDIO</h1>
+<div class="main-container">
 
-        <div class="card">
-            <img src="https://i.postimg.cc/PqdgSDhp/A4273DB5-986C-4720-8FB1-670A32CA1ECA.png" class="my-photo">
-            
-            <p class="about-text">
-                نحن وجهتكم الأولى في عالم التطوير والبرمجة، نقدم لكم أفضل الحلول التقنية لإدارة وتطوير مشاريعكم باحترافية.
-            </p>
+<img src="https://i.postimg.cc/g2J7gWgr/2306FBBB-8CC1-406C-822B-3FB96AE6E9AF.png" class="server-logo">
 
-            <div class="service"><i class="fab fa-discord"></i> برمجة أنظمة ديسكورد</div>
-            <div class="service"><i class="fas fa-code"></i> سكربتات روبلوكس حصرية</div>
-            <div class="service"><i class="fas fa-laptop-code"></i> حلول برمجية متكاملة</div>
-        </div>
+<h1>VORTEX STUDIO</h1>
 
-        <a href="https://discord.gg/ghJ3NcvsJs" class="discord-btn">
-            <i class="fab fa-discord"></i> انضم لسيرفرنا ديسكورد
-        </a>
+<div class="card">
 
-        <div class="footer">
-            جميع الحقوق محفوظة لـ VORTEX STUDIO © 2026
-        </div>
-    </div>
+<img src="https://i.postimg.cc/g2J7gWgr/2306FBBB-8CC1-406C-822B-3FB96AE6E9AF.png" class="my-photo">
+
+<p class="about-text">
+نحن في <strong>VORTEX STUDIO</strong> نقدم حلولاً احترافية في البرمجة والتطوير، مع التركيز على الجودة والسرعة وتجربة استخدام مميزة لمختلف المشاريع.
+</p>
+
+<div class="service">
+<i class="fab fa-discord"></i>
+برمجة وتطوير بوتات ديسكورد
+</div>
+
+<div class="service">
+<i class="fas fa-gamepad"></i>
+سكربتات وأنظمة Roblox
+</div>
+
+<div class="service">
+<i class="fas fa-laptop-code"></i>
+حلول برمجية ومواقع ولوحات تحكم
+</div>
+
+</div>
+
+<a href="https://discord.gg/PxRHvCJfPd" class="discord-btn">
+<i class="fab fa-discord"></i>
+انضم إلى سيرفر VORTEX STUDIO
+</a>
+
+<div class="footer">
+© 2026 VORTEX STUDIO — جميع الحقوق محفوظة.
+</div>
+
+</div>
 
 </body>
 </html>
