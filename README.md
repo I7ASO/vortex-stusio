@@ -1,32 +1,41 @@
 <div align="center">
+<img src="https://i.postimg.cc/g2J7gWgr/2306FBBB-8CC1-406C-822B-3FB96AE6E9AF.png" width="140" alt="VORTEX STUDIO Logo">
 
 🌌 VORTEX STUDIO
 
 Create. Innovate. Dominate.
 
-VORTEX STUDIO هو استوديو تطوير رقمي يركز على بناء مشاريع حديثة وعالية الجودة، بدءًا من بوتات Discord ولوحات التحكم (Dashboards)، وصولًا إلى مواقع الويب، وتصميم الواجهات، وحلول البرمجة المخصصة.
-
+<p>
+  <strong>Professional Development Studio</strong><br>
+  Discord Bots • Roblox Systems • Web Development • Dashboards
+</p>
 <p>
   <a href="https://i7aso.github.io/vortex-stusio/">
-    <img src="https://img.shields.io/badge/🌍_Website-Visit-8A2BE2?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/🌍_Website-VORTEX_STUDIO-8A2BE2?style=for-the-badge">
+  </a>
+  <a href="https://discord.gg/ghJ3NcvsJs">
+    <img src="https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
+<img src="https://img.shields.io/badge/Made%20with-Love-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Discord%20%7C%20Roblox-blueviolet?style=flat-square">
 </div>
 
 ⸻
 
-✨ Vision
+✨ About
 
-نسعى إلى تقديم مشاريع احترافية تجمع بين الأداء، والأمان، والتصميم العصري، مع تجربة استخدام سلسة تناسب المطورين والمستخدمين.
+VORTEX STUDIO هو استوديو تطوير رقمي يقدم حلولاً احترافية في البرمجة والتطوير، مع التركيز على الجودة، الأداء، والتصميم الحديث.
 
 ⸻
 
 🚀 Services
 
-* 🤖 Discord Bots
-* 🌐 Web Development
-* 🎨 UI / UX Design
-* ⚡ Dashboards
+* 🤖 Discord Bot Development
+* 🎮 Roblox Systems & Scripts
+* 🌐 Website Development
+* ⚡ Dashboard Development
 * ☁️ Hosting Solutions
 * 🔒 Security & Performance
 
@@ -34,17 +43,26 @@ VORTEX STUDIO هو استوديو تطوير رقمي يركز على بناء �
 
 💜 Identity
 
-العنصر	القيمة
+Property	Value
 Name	VORTEX STUDIO
 Style	Modern • Clean • Professional
-Primary Color	Purple
-Goal	تطوير حلول رقمية حديثة، موثوقة، وعالية الجودة.
+Primary Color	Purple (#A855F7)
+Mission	Building reliable and modern digital solutions.
 
 ⸻
 
 🌍 Website
 
-🔗 https://i7aso.github.io/vortex-stusio/
+Official Website
+https://i7aso.github.io/vortex-stusio/
+
+⸻
+
+💬 Community
+
+Join our Discord community.
+
+https://discord.gg/ghJ3NcvsJs
 
 ⸻
 
@@ -52,6 +70,6 @@ Goal	تطوير حلول رقمية حديثة، موثوقة، وعالية ا�
 
 ⭐ Create • Build • Innovate
 
-© VORTEX STUDIO — All Rights Reserved.
+© 2026 VORTEX STUDIO — All Rights Reserved.
 
 </div>
