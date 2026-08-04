@@ -9,12 +9,13 @@ Professional Development Studio
 
 <p>
   <a href="https://i7aso.github.io/vortex-stusio/">
-    <img src="https://img.shields.io/badge/Website-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-Online-a855f7?logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  &nbsp;
   <a href="https://discord.gg/PxRHvCJfPd">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white" alt="Discord">
   </a>
+  <img src="https://img.shields.io/badge/Status-Active-22c55e" alt="Status">
+  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-64748b" alt="License">
 </p>
 </div>
 
@@ -33,13 +34,11 @@ Professional Development Studio
 
 💜 About
 
-VORTEX STUDIO هو استوديو تطوير رقمي متخصص في تطوير بوتات Discord، أنظمة Roblox، مواقع الويب، ولوحات التحكم، مع التركيز على الجودة، الأداء، والتصميم الحديث.
+VORTEX STUDIO is a modern development studio focused on creating high-quality Discord bots, Roblox systems, web applications, dashboards, and digital solutions with performance, security, and clean design in mind.
 
 ⸻
 
 <div align="center">
-
-⭐ Create • Build • Innovate
 
 © 2026 VORTEX STUDIO — All Rights Reserved.
 
