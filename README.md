@@ -8,26 +8,15 @@ Create. Innovate. Dominate.
 Professional Development Studio
 
 <p>
-  <a href="https://i7aso.github.io/vortex-stusio/">🌐 Website</a>
-  •
-  <a href="https://discord.gg/PxRHvCJfPd">💬 Discord</a>
+  <a href="https://i7aso.github.io/vortex-stusio/">
+    <img src="https://img.shields.io/badge/Website-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/PxRHvCJfPd">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
-
-⸻
-
-Building modern digital experiences.
-
-Discord Bots • Roblox Systems • Web Development • Dashboards • Hosting
-
 </div>
-
-⸻
-
-💜 About
-
-VORTEX STUDIO is a professional development studio focused on delivering modern, reliable, and high-quality digital solutions.
-
-We specialize in creating Discord bots, Roblox systems, web applications, control panels (dashboards), and custom software with a strong focus on performance, security, and user experience.
 
 ⸻
 
@@ -42,24 +31,15 @@ We specialize in creating Discord bots, Roblox systems, web applications, contro
 
 ⸻
 
-🎯 Mission
+💜 About
 
-Our mission is to build modern, powerful, and reliable software that helps communities, creators, and businesses grow through innovative technology.
-
-⸻
-
-🌍 Official Links
-
-* Website: https://i7aso.github.io/vortex-stusio/
-* Discord: https://discord.gg/PxRHvCJfPd
+VORTEX STUDIO هو استوديو تطوير رقمي متخصص في تطوير بوتات Discord، أنظمة Roblox، مواقع الويب، ولوحات التحكم، مع التركيز على الجودة، الأداء، والتصميم الحديث.
 
 ⸻
 
 <div align="center">
 
-⭐ Create • Innovate • Dominate
-
-Made with ❤️ by VORTEX STUDIO
+⭐ Create • Build • Innovate
 
 © 2026 VORTEX STUDIO — All Rights Reserved.
 
